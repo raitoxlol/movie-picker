@@ -1,0 +1,10 @@
+{
+  "name": "movie-picker",
+  "version": "1.0.0",
+  "description": "Ends the movie-night scroll: asks 4 quick questions, picks one film from the IMDb top 200 you haven't seen, finds where it's streaming (your services, free legal options, rent/buy), and keeps your watched list.",
+  "author": { "name": "raitoxlol" },
+  "homepage": "https://github.com/raitoxlol/movie-picker",
+  "repository": "https://github.com/raitoxlol/movie-picker",
+  "license": "MIT",
+  "keywords": ["movies", "recommendations", "streaming", "watchlist", "skill"]
+}
