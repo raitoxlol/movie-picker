@@ -1,0 +1,15 @@
+{
+  "name": "movie-picker",
+  "owner": { "name": "raitoxlol" },
+  "metadata": {
+    "description": "Movie Picker — a Claude Code skill that picks tonight's movie.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "movie-picker",
+      "source": "./",
+      "description": "Asks 4 quick questions, picks one film from the IMDb top 200 you haven't seen, finds where it's streaming, and keeps your watched list."
+    }
+  ]
+}
